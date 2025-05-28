@@ -1,9 +1,9 @@
 # Projeto Livre: Sistema de Gerenciamento de Biblioteca Pessoal
 
-*Disciplina:* Orientação a Objetos, 2025/1
-*Faculdade:* UnB - FCTE
-*Prof.:* Henrique Moura
-*Estudante:* Mateus Lira Gomes - 241025800
+* Disciplina: Orientação a Objetos, 2025/1
+* Faculdade: UnB - FCTE
+* Prof.: Henrique Moura
+* Estudante: Mateus Lira Gomes
 
 ## 1. Definição do Problema
 
@@ -15,7 +15,7 @@ Este projeto visa desenvolver um sistema desktop para gerenciar uma coleção pe
 * Banco de Dados: SQLite3
 * Paradigma: Programação Estruturada e Orientada a Objetos 
 
-## 3. Estrutura do Projeto (Conforme Especificado)
+## 3. Estrutura do Projeto
 * `README.md`
 * `main.py`
 * `package/`
