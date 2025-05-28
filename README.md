@@ -1,9 +1,9 @@
 # Projeto Livre: Sistema de Gerenciamento de Biblioteca Pessoal
 
-**Disciplina:** Orientação a Objetos, semestre 01/2025
-**Faculdade:** UnB Gama
-**Prof.:** Henrique Moura
-**Estudante:** Mateus Lira Gomes - 241025800
+*Disciplina:* Orientação a Objetos, 2025/1
+*Faculdade:* UnB - FCTE
+*Prof.:* Henrique Moura
+*Estudante:* Mateus Lira Gomes - 241025800
 
 ## 1. Definição do Problema
 
@@ -16,9 +16,9 @@ Este projeto visa desenvolver um sistema desktop para gerenciar uma coleção pe
 * Paradigma: Programação Estruturada e Orientada a Objetos 
 
 ## 3. Estrutura do Projeto (Conforme Especificado)
-* `README.md` (este arquivo)
-* `main.py` (rotina principal)
-* `package/` (pasta para pacotes do sistema)
+* `README.md`
+* `main.py`
+* `package/`
     * `models.py`
     * `database.py`
     * `gui/`
